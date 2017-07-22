@@ -14,7 +14,7 @@
 
     <group android:checkableBehavior="single" >
         <item
-            android:id="@+id/map"
+            android:id="@+id/nav_map"
             android:icon="@drawable/soccerr"
             android:title="View Map" />
     </group>
